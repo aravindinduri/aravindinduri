@@ -1,18 +1,15 @@
-# 👋 Hi, I'm Aravind, a passionate Full Stack Developer specializing in modern web technologies. I love building scalable, user-friendly applications and exploring new tech.
+# 👋 Hi, I'm Aravind!  
+🚀 Full Stack Developer | Passionate about **Scalable Apps, AI, and ML**  
 
-## 🔧 Tech Stack
-- **Frontend:** React, Next.js, Angular, Tailwind CSS, Material-UI  
-- **Backend:** Node.js, Express, Firebase, MongoDB, MySQL  
-- **Tools & APIs:** RESTful APIs, Firebase  
-- **Languages:** TypeScript, JavaScript, Python  
+## 🔧 Tech Stack  
+💻 **Frontend:** React, Next.js, Angular, Tailwind CSS, Material-UI  
+🛠 **Backend:** Node.js, Express, Firebase, MongoDB, MySQL  
+🤖 **AI & ML:** Gen-AI, Machine Learning, Google Gemini AI  
+📜 **Languages:** TypeScript, JavaScript, Python  
 
-## 🌍 Let's Connect
-📩 Reach out for collaboration or tech discussions!  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_aravind._)
-
-## 📊 GitHub Stats
-![Aravind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aravindinduri&theme=dark&hide_border=false&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aravindinduri&theme=dark&hide_border=false)
+## 🌍 Let's Connect  
+📩 Open to collaboration & tech discussions!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-induri)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_aravind._)  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aravindinduri&icon=0&color=0)](https://visitcount.itsvg.in)
