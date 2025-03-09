@@ -4,7 +4,7 @@
 ## 🔧 Tech Stack
 - **Frontend:** React, Next.js, Angular, Tailwind CSS, Material-UI  
 - **Backend:** Node.js, Express, Firebase, MongoDB, MySQL  
-- **Tools & APIs:** RESTful APIs, Firebase, AWS  
+- **Tools & APIs:** RESTful APIs, Firebase  
 - **Languages:** TypeScript, JavaScript, Python  
 
 ## 🌍 Let's Connect
