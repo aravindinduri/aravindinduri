@@ -1,5 +1,4 @@
-# 💫 About Me
-👋 Hi, I'm Aravind, a passionate Full Stack Developer specializing in modern web technologies. I love building scalable, user-friendly applications and exploring new tech.
+# 👋 Hi, I'm Aravind, a passionate Full Stack Developer specializing in modern web technologies. I love building scalable, user-friendly applications and exploring new tech.
 
 ## 🔧 Tech Stack
 - **Frontend:** React, Next.js, Angular, Tailwind CSS, Material-UI  
