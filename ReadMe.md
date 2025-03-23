@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Aravind!  
-🚀 Full Stack Developer | Passionate about **Scalable Apps, AI, and ML**  
+🚀 Full Stack Developer | Passionate about **Scalable Web Apps, AI, and ML**  
 
 ## 🔧 Tech Stack  
 💻 **Frontend:** React, Next.js, Angular, Tailwind CSS, Material-UI  
