@@ -10,6 +10,5 @@
 ## 🌍 Let's Connect  
 📩 Open to collaboration & tech discussions!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-induri)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_aravind._)  
 
 ---
