@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Aravind!  
 🚀 Full Stack Developer | Passionate about **Scalable Web Apps, AI, and ML**  
 
-## 🔧 Tech Stack  
+## 🔧 Worked With
 💻 **Frontend:** React, Next.js, Angular, Tailwind CSS, Material-UI  
 🛠 **Backend:** Node.js, Express, Firebase, MongoDB, MySQL  
 🤖 **AI & ML:** Gen-AI, Machine Learning, Google Gemini AI  
-📜 **Languages:** TypeScript, JavaScript, Python  
+📜 **Languages:**JavaScript,Java,Python  
 
 ## 🌍 Let's Connect  
 📩 Open to collaboration & tech discussions!  
