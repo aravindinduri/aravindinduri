@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.ibb.co/KcYxqhjW/Chat-GPT-Image-Aug-19-2025-01-45-38-PM.png" alt="Aravind Banner" width="1000"/>
-</p>
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h2 align="center">👋 Hi, I'm Aravind!</h2>
 <p align="center">🚀 Full Stack Developer | AI & ML Enthusiast</p>
